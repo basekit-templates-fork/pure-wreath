@@ -1,6 +1,6 @@
 {
-	"name":"Organic",
-	"thumbnail":"organic.png",
+	"name":"Pure Wreth",
+	"thumbnail":"pure-wreth.png",
 	"templateType":"standard",
 	"pageTypes": ["home"], 
 	"tags": {
@@ -13,9 +13,9 @@
 	{
         "Swatch 1": {
             "color1":"#faf9f7",
-            "color2":"#463438",
-            "color3":"#8ACECD",
-            "color4":"#7CBB7E",
+            "color2":"#60C8C7",
+            "color3":"#A80048",
+            "color4":"#60C8C7",
             "color5":"#898482",
             "color6":"#7CC4C3",
             "color7":"#ffffff"
@@ -60,7 +60,7 @@
 	"fontSwatch": {
 		"title": "Futura / Trebuchet MS",
 		"font1": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "36px",
 			"font-weight": "400",
 			"line-height": "50px",
@@ -70,7 +70,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font2": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "24px",
 			"font-weight": "400",
 			"line-height": "36px",
@@ -80,7 +80,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font3": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "20px",
 			"font-weight": "400",
 			"line-height": "36px",
@@ -90,7 +90,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font4": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "18px",
 			"font-weight": "400",
 			"line-height": "36px",
@@ -110,7 +110,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font6": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "16px",
 			"font-weight": "400",
 			"line-height": "35px",
@@ -121,7 +121,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font7": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "16px",
 			"font-weight": "400",
 			"line-height": "50px",
@@ -131,7 +131,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font8": {
-			"font-family": "\"Futura\", Helvetica, sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "48px",
 			"font-weight": "400",
 			"line-height": "72px",
@@ -141,7 +141,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font9": {
-			"font-family": "\"Courgette\", \"Lucida Grande\", sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "24px",
 			"font-weight": "400",
 			"line-height": "36px",
@@ -151,7 +151,7 @@
 			"letter-spacing": "inherit"
 		},
 		"font10": {
-			"font-family": "\"Courgette\", \"Lucida Grande\", sans-serif",
+			"font-family": "\"Droid Serif\", Georgia, serif",
 			"font-size": "52px",
 			"font-weight": "400",
 			"line-height": "62px",
